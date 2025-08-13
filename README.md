@@ -19,7 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/christian-solis-contreras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
-<a href="csolis1018@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+<a href="mailto:csolis1018@gmail.com?subject=Hola&body=Te%20escribo%20porque..." target="_blank">
+  <img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
+</a>
   <a href="https://discordapp.com/users/1339638473602240627" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   </p>
   </div>
