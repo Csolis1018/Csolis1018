@@ -12,9 +12,9 @@
 
 - 💬 Ask me about: **Python, SQL, HTML, , Data Wrangling, ETL, Machine learning**
 
-- 📫 How to reach me: **Drop me an email at csolis1018@gmail.com**
+- ⚡ Experience in Data Wrangling, Statistical Analysis, ETL Fundamentals
 
-- ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
+- 📫 How to reach me: **Drop me an email at csolis1018@gmail.com or click on any of the bottom bellow (linkedin, gmail or discord)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,14 +32,16 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite&logoColor=003B57)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=Power%20BI&logoColor=F2C811)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+  ![Minitab](https://img.shields.io/badge/-Minitab-333333?style=flat&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit&logoColor=FF4B3E)
 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=5391FE)
