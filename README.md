@@ -28,8 +28,8 @@
   </p>
   </div>
 -Email: csolis1018@gmail.com
--Celphone: (+52) 663-104-3103
 -LinkedIn: (https://www.linkedin.com/in/christiansolis-datascientist/)
+-Discord: [(+52) 663-104-3103](https://discordapp.com/users/1339638473602240627)
 
 ---
 
