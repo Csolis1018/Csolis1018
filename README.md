@@ -27,7 +27,9 @@
   <a href="https://discordapp.com/users/1339638473602240627" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   </p>
   </div>
-
+Email: csolis1018@gmail.com
+Celphone: (+52) 663-104-3103
+LinkedIn: linkedin.com/in/daleroba](https://www.linkedin.com/in/christiansolis-datascientist/)
 ---
 
 <h3>  &nbsp;🛠️  Technical Skills:</h3>
