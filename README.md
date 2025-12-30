@@ -30,6 +30,7 @@
 -Email: csolis1018@gmail.com
 -Celphone: (+52) 663-104-3103
 -LinkedIn: (https://www.linkedin.com/in/christiansolis-datascientist/)
+
 ---
 
 <h3>  &nbsp;🛠️  Technical Skills:</h3>
