@@ -33,7 +33,7 @@
 <h3>  &nbsp;🛠️  Technical Skills:</h3>
 
 - Programming Languages: Python, SQL.
-- 
+  
 - Data Analysis: Pandas, Sci-kit Learn, Plotly
 
 - Visualization Tools: Power BI (DAX, data modeling, executive dashboards)
