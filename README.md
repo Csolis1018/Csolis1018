@@ -2,17 +2,19 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 <h1 align="center">Hi 👋, I'm Christian Solis</h1>
-<h3 align="center">Data Scientist / Aeroespace Engineering / Certified Qualiy Engineering / Green belt six sigma </h3>
+<h3 align="center">Data Scientist / Data Analist / Aeroespace Engineering / Certified Qualiy Engineering / Green belt six sigma </h3>
 
-- 🔭 I’m currently studing my Data Scientist Bootcamp 
+- 🌍 Based in Tijuana, Mexico.
+  
+- 🔭 2 years of experience as Data Analist
 
-- 🌱 I have 7 year of experience as a Quality Engineering
+- 🌱 7 year of experience as a Quality Engineering
 
 - 👯 5 years of experience in Aerospace manufacturing
 
-- 💬 Ask me about: **Python, SQL, HTML, , Data Wrangling, ETL, Machine learning**
+- 💬 Ask me about: **Python, SQL, Power Bi, Microsoft, HTML, , Data Wrangling, ETL, Machine learning**
 
-- ⚡ Experience in Data Wrangling, Statistical Analysis, ETL Fundamentals
+- ⚡ Experience in Data Wrangling, Statistical Analysis, ETL Fundamentals, Machine Learning and Data Visualization 
 
 - 📫 How to reach me: **Drop me an email at csolis1018@gmail.com or click on any of the bottom bellow (linkedin, gmail or discord)**
 
@@ -28,20 +30,18 @@
 
 ---
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+<h3>  &nbsp;🛠️  Technical Skills:</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite&logoColor=003B57)
+- Programming Languages: Python, SQL.
+- 
+- Data Analysis: Pandas, Sci-kit Learn, Plotly
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=Power%20BI&logoColor=F2C811)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
-  ![Minitab](https://img.shields.io/badge/-Minitab-333333?style=flat&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit&logoColor=FF4B3E)
+- Visualization Tools: Power BI (DAX, data modeling, executive dashboards)
 
-- 🔧 &nbsp;
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=5391FE)
+- StatisticsandAnalysis: StatisticalAnalysis,EDA,HypothesisTesting,KPItrackingandforecasting,DataVisualization
+(Power BI, matplotlib, seaborn).
+
+- Quality and Process Optimization:PFMEA, Control Plan, SPC, variance analysis, ISO 9001, AS9100, IATF 16949, In
+ternal Auditing, Six Sigma (Green Belt).
+
+- Other Tools: Excel, MySQL
