@@ -41,10 +41,10 @@
 
 - Visualization Tools: Power BI (DAX, data modeling, executive dashboards)
 
-- StatisticsandAnalysis: StatisticalAnalysis,EDA,HypothesisTesting,KPItrackingandforecasting,DataVisualization
+- Statistics and Analysis: Statistical Analysis, EDA, Hypothesis Testing, KPI tracking and forecasting, Data Visualization
 (Power BI, matplotlib, seaborn).
 
-- Quality and Process Optimization:PFMEA, Control Plan, SPC, variance analysis, ISO 9001, AS9100, IATF 16949, In
+- Quality and Process Optimization: PFMEA, Control Plan, SPC, variance analysis, ISO 9001, AS9100, IATF 16949, In
 ternal Auditing, Six Sigma (Green Belt).
 
 - Other Tools: Excel, MySQL
